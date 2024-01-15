@@ -1,0 +1,30 @@
+﻿Bot kurulumu için gerekenler :
+
+NodeJS : https://nodejs.org/en/
+Notepad++ : https://notepad-plus-plus.org/downloads/
+
+Botu rardan masaüstüne klasör olarak çıkartıyoruz.
+
+Databases klasörünün içindeki db.json adlı dosyayı Notepad++ ile açıyoruz. 
+
+db.json dosyasını açtığımız zaman içerisinde doldurmanız gereken 3 önemli yer vardır.
+
+Bunları doldurmadığınız veya rastgele doldurduğunuz zaman botunuz çalışmayacaktır.
+
+"token": "Token Giriniz" 
+"channelid": "Botunuzun Çalışacağı Kanal ID'sini Giriniz"
+"ownerid": "Kendi ID'inizi Giriniz."
+
+not : Token almayı bilmiyorsanız youtube'a "discord token nasıl alınır" diye aratarak öğrenebilirsiniz.
+
+not 2 : Kanal id'sini ve Kendi id'inizi nasıl kopyalayacağınızı bilmiyorsanız aşşağıdaki 
+videoda teker teker gösterdim.
+
+Üsteki tüm aşamaları başarılı bir şekilde yaptıysanız şimdi başlat.bat'ı çalıştırıp botumuzu çalıştırıyoruz.
+
+Komutlar için !yardım yazıp komutların nasıl kullanıldığını görebilirsiniz.
+
+Yazıdan bir şeyden anlamadım ve itemsatışdan yazmaya üşeniyorum acelem var diyorsanız;
+Kurulum Videosu: 
+
+GhostShop Sunar :)
